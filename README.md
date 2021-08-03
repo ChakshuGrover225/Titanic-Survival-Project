@@ -9,3 +9,12 @@ Content Discription
 2. train.csv                                training data of the titanic survivors
 3. test.csv                                 testing data to check the prediction
 4. gender_submission.csv                    data depicting survival of passenger
+
+
+
+tech used:
+1. python
+2. numpy
+3. pandas 
+4. scikitlearn
+5. spreadsheets
