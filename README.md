@@ -5,7 +5,7 @@ this is my first step toward the field of Machine Learning. This project is prov
 
 Content Discription
 
-............NAME--------------------------------DISCRIPTION
+......................NAME--------------------------------DISCRIPTION
 1. titanic-by-chakshu.ipynb------------------main python Notebook; includes code
 2. train.csv---------------------------------training data of the titanic survivors
 3. test.csv----------------------------------testing data to check the prediction
